@@ -364,7 +364,7 @@ Open `notebooks/Novagen_Labs_Project.ipynb` and run the cells sequentially.
 
 This project is developed for educational purposes. Its predictions are not intended for medical diagnosis or healthcare decision-making.
 
-## 12. Author
+## 11. Author
 
 **Chandrashekhar Patidar**
 
